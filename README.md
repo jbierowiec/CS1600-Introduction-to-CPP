@@ -9,11 +9,11 @@ The following homeworks and labs were developed during my sophomore year at Ford
 ├── Homeworks
 │   ├── Homework 1
 │   ├── Homework 2
-|   ├── Homework 3
-|   ├── Homework 4
-|   ├── Homework 5
-|   ├── Homework 6
-|   ├── Homework 7
+│   ├── Homework 3
+│   ├── Homework 4
+│   ├── Homework 5
+│   ├── Homework 6
+│   ├── Homework 7
 │   └── Homework 8
 └── Labs
     ├── Lab 1
