@@ -12,7 +12,7 @@ The following homeworks and labs were developed during my sophomore year at Ford
 5. Long Distance Phone Call
 6. Riddler Number
 7. Jacket, Hat, and Waist Sizes
-8. Coins
+8. Compute Coins
 
 ## Labs
 
