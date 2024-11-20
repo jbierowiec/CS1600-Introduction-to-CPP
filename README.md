@@ -1,4 +1,4 @@
-# CS1600 Introduction to C++
+# CISC 1600 Introduction to C++
 
 ## Introduction
 The following homeworks and labs were developed during my sophomore year at Fordham University as my first undergraduate programming course. All of these assignments were developed in C++. 
