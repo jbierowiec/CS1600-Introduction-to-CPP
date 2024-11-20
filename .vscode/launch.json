@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/janbierowiec/CS1600_Introduction_to_CPP/Homeworks/Homework_6/Version_2",
+      "program": "/Users/janbierowiec/CS1600_Introduction_to_CPP/Homeworks/Homework_6/Version_2/build/Debug/outDebug"
+    }
+  ]
+}
