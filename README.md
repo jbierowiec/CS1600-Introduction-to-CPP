@@ -3,7 +3,7 @@
 ## Introduction
 The following homeworks and labs were developed during my sophomore year at Fordham University as my first undergraduate programming course. All of these assignments were developed in C++. 
 
-## Project Structure
+## Folder/File Structure
 
 ```plaintext
 ├── Homeworks
@@ -29,12 +29,19 @@ The following homeworks and labs were developed during my sophomore year at Ford
 ## Homeworks
 
 1. CS Logo
+- A very simple program outputting a logo with the letters C & S on the terminal.
 2. Room Capacity
+- A simple program using an if-else to determine if a meeting can take place based on the room capacity. 
 3. Gross Pay
+- A program that determines the gross pay of an employee dependent on the number of hours worked and the number of dependants.
 4. Class Exercises
+
 5. Long Distance Phone Call
+
 6. Riddler Number
+
 7. Jacket, Hat, and Waist Sizes
+
 8. Compute Coins
 
 ## Labs
