@@ -1,1 +1,7 @@
-# CS1600-Introduction-to-CPP
+# CS1600 Introduction to C++
+
+## Homeworks
+
+1. 
+
+## Labs
